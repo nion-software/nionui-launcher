@@ -14,7 +14,7 @@ artifacts:
 deploy:
   provider: GitHub
   auth_token:
-    secure: "JOsBeG4/+uADDmapGTFqxFVqxB6MAN6TdJmamNvc4OFw96ifhEaSzOUbVbRcRLI9"
+    secure: # add appveyor github key here
   artifact: /NionUILauncher-Windows.zip/
   draft: false
   prerelease: false
